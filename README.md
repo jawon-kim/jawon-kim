@@ -9,9 +9,9 @@
   <img src="http://img.shields.io/badge/-HTML5-red?style=flat&logo=HTML5&logoColor=white"/> 
   <img src="http://img.shields.io/badge/-CSS3-blue?style=flat&logo=CSS3&logoColor=white"/> 
   <img src="http://img.shields.io/badge/-JQuery-orange?style=flat&logo=JQuery&logoColor=white"/> 
-  <img src="http://img.shields.io/badge/-Photoshop-21a8ff?style=flat&logo=Adobe&nbspPhotoshop&logoColor=white"/> 
-  <img src="http://img.shields.io/badge/-Illustrator-ff9400?style=flat&logo=Adobe&nbspIllustrator&logoColor=white"/> 
-  <img src="http://img.shields.io/badge/-XD-ff61f6?style=flat&logo=Adobe&nbspXD&logoColor=white"/> 
+  <img src="http://img.shields.io/badge/-Photoshop-21a8ff?style=flat&logo=Photoshop&logoColor=white"/> 
+  <img src="http://img.shields.io/badge/-Illustrator-ff9400?style=flat&logo=Illustrator&logoColor=white"/> 
+  <img src="http://img.shields.io/badge/-XD-ff61f6?style=flat&logo=XD&logoColor=white"/> 
 </div>
 
 
