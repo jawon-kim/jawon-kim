@@ -6,7 +6,7 @@
 <br/>
 
 ### 🛠 Learning
-<img src="http://img.shields.io/badge/-HTML5-red?style=flat&logo=HTML5&logoColor=white"/>&nbsp; <img src="http://img.shields.io/badge/-CSS3-blue?style=flat&logo=CSS3&logoColor=white"/>&nbsp; <img src="http://img.shields.io/badge/-Javascript-yellow?style=flat&logo=javascript&logoColor=white"/>&nbsp; <img src="http://img.shields.io/badge/-JQuery-orange?style=flat&logo=JQuery&logoColor=white"/> 
+<img src="http://img.shields.io/badge/-HTML-red?style=flat&logo=HTML5&logoColor=white"/>&nbsp; <img src="http://img.shields.io/badge/-CSS3-blue?style=flat&logo=CSS&logoColor=white"/>&nbsp; <img src="http://img.shields.io/badge/-Javascript-yellow?style=flat&logo=javascript&logoColor=white"/>&nbsp; <img src="http://img.shields.io/badge/-JQuery-orange?style=flat&logo=JQuery&logoColor=white"/> 
 
 <br/>
 
