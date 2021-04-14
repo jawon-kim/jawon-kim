@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=dcdcdc&text=Jawon_Kim&&height=150&section=header&fontSize=50&textBg=false)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=fee440&text=Jawon_Kim&&height=150&section=header&fontSize=50&textBg=false)
 
 <h3 align="center">Hi there🙋🏻‍♀️</h3>
 
