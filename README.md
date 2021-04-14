@@ -10,8 +10,9 @@
 <br/>
 
 ### 👾 Contact
+<a href="https://www.instagram.com/alth0ugh__/" target="_blank">
 <img src="http://img.shields.io/badge/-instagram-black?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/alth0ugh__/"/>&nbsp;
-
+</a>
 
 <br/>
 <br/>
