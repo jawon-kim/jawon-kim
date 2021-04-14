@@ -4,7 +4,7 @@
 
 <h3 align="center">💡Teck Stack💡</h3>
 
-<img src="http://img.shields.io/badge/-HTML5-lightgreen?style=flat&logo=HTML5&logoColor=white"/> 
+<img src="http://img.shields.io/badge/-HTML5-lightgreen?style=flat&logo=HTML5&logoColor=white"/> <img src="http://img.shields.io/badge/-CSS6-yellow?style=flat&logo=CSS6&logoColor=white"/> <img src="http://img.shields.io/badge/-JQuery-lightgreen?style=flat&logo=JQuery&logoColor=orange"/> 
 
 
 ### Hi there 👋
