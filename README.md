@@ -6,7 +6,12 @@
 <h3 align="center">💡Teck Stack💡</h3>
 
 <div align="center">
-<img src="http://img.shields.io/badge/-HTML5-red?style=flat&logo=HTML5&logoColor=white"/> <img src="http://img.shields.io/badge/-CSS3-blue?style=flat&logo=CSS3&logoColor=white"/> <img src="http://img.shields.io/badge/-JQuery-orange?style=flat&logo=JQuery&logoColor=white"/> 
+  <img src="http://img.shields.io/badge/-HTML5-red?style=flat&logo=HTML5&logoColor=white"/> 
+  <img src="http://img.shields.io/badge/-CSS3-blue?style=flat&logo=CSS3&logoColor=white"/> 
+  <img src="http://img.shields.io/badge/-JQuery-orange?style=flat&logo=JQuery&logoColor=white"/> 
+  <img src="http://img.shields.io/badge/-Photoshop-blue?style=flat&logo=AdobePhotoshop&logoColor=white"/> 
+  <img src="http://img.shields.io/badge/-Illustrator-ff9400?style=flat&logo=AdobeIllustrator&logoColor=white"/> 
+  <img src="http://img.shields.io/badge/-XD-ff61f6?style=flat&logo=AdobeXD&logoColor=white"/> 
 </div>
 
 
