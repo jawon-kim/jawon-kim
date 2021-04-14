@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=dcdcdc&text=Jawon_Kim&&height=150&section=header&fontSize=50&textBg=false)
 
-<h3 align="center">Hi there🙋🏻‍♀️/h3>
+<h3 align="center">Hi there🙋🏻‍♀️</h3>
 
 <h3 align="center">💡Teck Stack💡</h3>
 
